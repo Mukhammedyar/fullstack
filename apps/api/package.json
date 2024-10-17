@@ -1,0 +1,11 @@
+{
+  "name": "@cloudretail/api",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node "
+  },
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}

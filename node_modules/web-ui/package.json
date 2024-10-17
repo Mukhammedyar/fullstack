@@ -1,0 +1,9 @@
+{
+  "name": "@cloudretail/web-ui",
+  "type": "module",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
